@@ -1,20 +1,20 @@
 {
-  "project": "AEM Demo - dev-aliarman",
+  "project": "AEM Demo - developer-arman",
   "editUrlLabel": "Document Authoring", 
-  "editUrlPattern": "https://da.live/edit#/dev-aliarman/aemdemo{{pathname}}",
+  "editUrlPattern": "https://da.live/edit#/developer-arman/aemdemo{{pathname}}",
   "plugins": [
     {
       "id": "library",
       "title": "Block Library",
       "environments": ["edit"],
-      "url": "https://main--aemdemo--dev-aliarman.aem.live/block-library.json",
+      "url": "https://main--aemdemo--developer-arman.aem.live/block-library.json",
       "isPalette": true
     },
     {
       "id": "blocks",
       "title": "Blocks",
       "environments": ["edit"],
-      "url": "https://main--aemdemo--dev-aliarman.aem.live/blocks.json",
+      "url": "https://main--aemdemo--developer-arman.aem.live/blocks.json",
       "isPalette": true
     }
   ]

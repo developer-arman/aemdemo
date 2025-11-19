@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://content.da.live/dev-aliarman/aemdemo/
+    url: https://content.da.live/developer-arman/aemdemo
     type: markup
 
 folders:

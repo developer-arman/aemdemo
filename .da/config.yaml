@@ -1,26 +1,26 @@
 version: 1
-org: dev-aliarman
+org: developer-arman
 repo: aemdemo
-contentSourceUrl: https://content.da.live/dev-aliarman/aemdemo/
+contentSourceUrl: https://content.da.live/developer-arman/aemdemo/
 contentSourceType: onedrive
-owner: dev-aliarman
+owner: developer-arman
 site: aemdemo
-host: main--aemdemo--dev-aliarman.aem.live
-previewHost: main--aemdemo--dev-aliarman.aem.page
-gitUrl: https://github.com/dev-aliarman/aemdemo
+host: main--aemdemo--developer-arman.aem.live
+previewHost: main--aemdemo--developer-arman.aem.page
+gitUrl: https://github.com/developer-arman/aemdemo
 
 fstab:
   mountpoints:
     /:
-      url: https://content.da.live/dev-aliarman/aemdemo/
+      url: https://content.da.live/developer-arman/aemdemo/
       type: markup
   folders:
     /products/: /products/default
 
 sidekick:
-  project: AEM Demo - dev-aliarman
+  project: AEM Demo - developer-arman
   editUrlLabel: Document Authoring
-  editUrlPattern: https://da.live/edit#/dev-aliarman/aemdemo{{pathname}}
+  editUrlPattern: https://da.live/edit#/developer-arman/aemdemo{{pathname}}
   plugins:
     - id: library
       title: Block Library

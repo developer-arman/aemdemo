@@ -1,11 +1,11 @@
 {
   "version": 1,
   "code": {
-    "owner": "dev-aliarman",
+    "owner": "developer-arman",
     "repo": "aemdemo",
     "source": {
       "type": "github",
-      "url": "https://github.com/dev-aliarman/aemdemo"
+      "url": "https://github.com/developer-arman/aemdemo"
     }
   },
   "content": {
@@ -19,10 +19,10 @@
   },
   "cdn": {
     "live": {
-      "host": "main--aemdemo--dev-aliarman.aem.live"
+      "host": "main--aemdemo--developer-arman.aem.live"
     },
     "preview": {
-      "host": "main--aemdemo--dev-aliarman.aem.page"
+      "host": "main--aemdemo--developer-arman.aem.page"
     }
   },
   "headers": {},
@@ -72,7 +72,7 @@
         "environments": [
           "edit"
         ],
-        "url": "https://main--aemdemo--dev-aliarman.aem.live/tools/picker/dist/index.html",
+        "url": "https://main--aemdemo--developer-arman.aem.live/tools/picker/dist/index.html",
         "isPalette": true,
         "paletteRect": "top: 54px; left: 5px; bottom: 5px; width: 300px; height: calc(100% - 59px); border-radius: var(--hlx-sk-button-border-radius); overflow: hidden; resize: horizontal;"
       },
@@ -82,7 +82,7 @@
         "environments": [
           "edit"
         ],
-        "url": "https://main--aemdemo--dev-aliarman.aem.live/tools/segments/dist/index.html",
+        "url": "https://main--aemdemo--developer-arman.aem.live/tools/segments/dist/index.html",
         "isPalette": true,
         "paletteRect": "top: 54px; left: 5px; bottom: 5px; width: 300px; height: calc(100% - 59px); border-radius: var(--hlx-sk-button-border-radius); overflow: hidden; resize: horizontal;"
       }
